@@ -1,0 +1,1 @@
+"POSTGRESQL" = "%{DATESTAMP:timestamp} %{TZ} %{DATA:user_id} %{GREEDYDATA:connection_id} %{POSINT:pid}"
